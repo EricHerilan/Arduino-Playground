@@ -1,2 +1,2 @@
 # Arduino-Playground
-play with some Arduino components
+Play around with some Arduino components
